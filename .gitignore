@@ -2,7 +2,7 @@
 Makefile
 Makefile.Debug
 Makefile.Release
-Trade4.pro.user
-trade4_plugin_import.cpp
+Trade3.pro.user
+trade3_plugin_import.cpp
 debug/
 release/
