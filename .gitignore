@@ -1,8 +1,7 @@
 .qmake.stash
-Makefile
-Makefile.Debug
-Makefile.Release
-Trade3.pro.user
-trade3_plugin_import.cpp
+Makefile*
+*.pro.user
+*.pro.user*
+*_plugin_import.cpp
 debug/
 release/
